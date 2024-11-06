@@ -13,12 +13,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="28dp"
+        android:layout_marginTop="68dp"
         android:layout_marginEnd="16dp"
         android:text="My City"
         android:textSize="30sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.05"
+        app:layout_constraintHorizontal_bias="0.046"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -46,6 +46,7 @@
                 android:textSize="30dp" />
 
             <TextView
+                android:id="@+id/coffee"
                 android:layout_width="185dp"
                 android:layout_height="45dp"
                 android:layout_gravity="center_horizontal"
@@ -54,6 +55,7 @@
                 android:textSize="20dp" />
 
             <TextView
+                android:id="@+id/dance"
                 android:layout_width="185dp"
                 android:layout_height="55dp"
                 android:layout_gravity="center_horizontal"
@@ -62,6 +64,7 @@
                 android:textSize="20dp" />
 
             <TextView
+                android:id="@+id/university"
                 android:layout_width="185dp"
                 android:layout_height="55dp"
                 android:layout_gravity="center_horizontal"

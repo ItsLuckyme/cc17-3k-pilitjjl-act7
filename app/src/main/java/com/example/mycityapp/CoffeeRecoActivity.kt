@@ -20,6 +20,5 @@ class CoffeeRecoActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-
     }
 }
